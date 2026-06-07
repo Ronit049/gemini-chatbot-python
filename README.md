@@ -136,3 +136,28 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## Author
+
+**Ronit Raj**
+feel free to Connect 💗
+
+
+[🏆 CodeChef](https://www.codechef.com/users/its_rsr04)
+
+
+[🏆 Hackerrank](https://www.hackerrank.com/profile/ronitrajrsr0409)
+
+
+---
+
+## Show Your Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Your support motivates me to build more projects and improve my skills.
+
+---
+
+## Thank You
+
